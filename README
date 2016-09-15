@@ -1,0 +1,19 @@
+Game in GLFW directory 
+Files 
+1)201401072.cpp
+2)201401072             //(Executable)
+
+Commands to be used to compile and run the program 
+g++ -o 201401072 glad.c 201401072.cpp -lGL -ldl -lglfw
+
+The aim of the game is to push all green balls to the end into 
+the purple target.
+
+Score and Count of balls are implemented using seven segment displays
+ and shown on Right and left respectively;
+
+If the freen balls don't appear at once please reload the game
+
+
+-thanks
+
